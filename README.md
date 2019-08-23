@@ -19,7 +19,7 @@ Pros
 - Batteries included
     - Vim/Neovim plugin, key bindings and fuzzy auto-completion
 
-Table of Contents
+Table the Contents
 -----------------
 
    * [Installation](#installation)
